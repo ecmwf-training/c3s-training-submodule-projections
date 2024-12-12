@@ -2,8 +2,9 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 
 format: jb-book
-root: intro-jupyter-template
+root: intro
 chapters:
-- file: jupyter-notebook-template
-
-
+ - file: projections-cmip6
+   title: Global Climate Projections (CMIP6)
+ - file: projections-cordex
+   title: Regional Climate Projections (CORDEX)

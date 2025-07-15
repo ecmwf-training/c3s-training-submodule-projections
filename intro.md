@@ -1,6 +1,6 @@
 ![logo](https://climate.copernicus.eu/sites/default/files/custom-uploads/branding/LogoLine_horizon_C3S.png)
 
-# C3S climate projections tutorials
+# Tutorials on C3S climate projections datasets
 
 Climate projections are essential resources for understanding potential future changes in the Earth's climate system, and are useful as tools for planning and decision-making. The projections are scientific outlooks of future climate conditions—such as temperature, rainfall, or sea level—based on different greenhouse gas emission scenarios, and are generated using climate models. Unlike weather forecasts, which predict short-term events, projections show long-term trends, typically over decades to centuries. They're not exact predictions, but rather plausible futures depending on human choices (e.g., how much CO₂ we emit) captured in the various scenarios they cover. These tutorials provide an overview of climate projections data available through the CDS, explaining their significance, methodologies, and potential applications in climate science and policy-making.
 
